@@ -2,8 +2,6 @@
 
 最近在尝试为我的ChatGPT Plus续费时，系统提示我 **我们未能处理您的支付方式。请更换支付方式并重试**。
 
-![ChatGPT支付验证失败](https://cdn.spoock.com/img/9a8f7b11b3d1cbcb.webp)
-
 我试过切换浏览器（从Chrome切换到Edge），更换代理服务器（尝试了新加坡、日本、韩国），但问题依然没有解决。
 
 ### ChatGPT Plus信用卡支付被拒的常见错误
